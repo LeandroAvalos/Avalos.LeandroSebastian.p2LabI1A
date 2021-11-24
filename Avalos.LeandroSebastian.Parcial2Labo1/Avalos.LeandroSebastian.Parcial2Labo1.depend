@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1637763560 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\inputs.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+
+1637763573 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\inputs.h
+
+1637763921 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+	"inputs.h"
+
+1637698877 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\linkedlist.h
+
+1637763449 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\peliculas.h
+
+1637757806 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"peliculas.h"
+
+1637760678 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"controller.h"
+
+1637763932 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\controller.h
+
+1637764010 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"time.h"
+	"inputs.h"
+	"controller.h"
+	"peliculas.h"
+
+1637763389 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+	<string.h>
+	<ctype.h>
+
+1637760521 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parcial2labo1\parser.h
+
